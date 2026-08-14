@@ -368,7 +368,7 @@
             "last_commit": "2020-11-22T20:52:13Z",
             "owner": "ftramer",
             "repo": "Steal-ML",
-            "stars": 357
+            "stars": 359
           }
         },
         {
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T07:03:37.813Z",
+    "last_updated": "2026-08-14T07:00:06.817Z",
     "original_repository": "stratosphereips/awesome-ml-privacy-attacks",
     "original_repository_sha": "9d88023349812436954957c077e06b72694c6e1b",
     "enhanced_repository": "enhansome/enhansome-ml-privacy-attacks",
