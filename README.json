@@ -1,15 +1,46 @@
 {
   "items": [
     {
-      "description": "A curated list of membership inference papers (more than 100 papers) on machine learning models is available at this repository.",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "Comprehensive privacy analysis of deep learning: Passive and active white-box inference attacks against centralized and federated learning.",
-          "description": "(Nasr et al., 2019) (code)",
+          "title": "Adversarial Robustness Toolbox (ART)",
+          "description": "(IBM)",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125381318,
+            "language": "Python",
+            "last_commit": "2025-12-12T07:01:28Z",
+            "owner": "Trusted-AI",
+            "repo": "adversarial-robustness-toolbox",
+            "stars": 6185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorFlow Privacy",
+          "description": "(TensorFlow)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 162747292,
+            "language": "Python",
+            "last_commit": "2026-07-08T08:56:21Z",
+            "owner": "tensorflow",
+            "repo": "privacy",
+            "stars": 2022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Machine Learning Privacy Meter",
+          "description": "(NUS Data Privacy and Trustworthy Machine Learning Lab)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 254225420,
             "language": "Jupyter Notebook",
             "last_commit": "2025-04-26T02:58:53Z",
             "owner": "privacytrustlab",
@@ -19,561 +50,661 @@
         },
         {
           "node_type": "item",
-          "title": "Membership inference attacks against machine learning models",
-          "description": "(Shokri et al., 2017) (code)",
+          "title": "PrivacyRaven",
+          "description": "(Trail of Bits)",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
+            "id": 266141010,
             "language": "Python",
-            "last_commit": "2017-11-15T18:40:25Z",
-            "owner": "csong27",
-            "repo": "membership-inference",
-            "stars": 202
+            "last_commit": "2025-09-05T19:03:08Z",
+            "owner": "trailofbits",
+            "repo": "PrivacyRaven",
+            "stars": 214
           }
         },
         {
           "node_type": "item",
-          "title": "Evaluating differentially private machine learning in practice",
-          "description": "(Jayaraman and Evans, 2019) (code)",
+          "title": "CypherCat (archive-only)",
+          "description": "(IQT Labs/Lab 41)",
           "children": [],
           "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-08T15:57:20Z",
-            "owner": "bargavj",
-            "repo": "EvaluatingDPML",
-            "stars": 136
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Systematic Evaluation of Privacy Risks of Machine Learning Models",
-          "description": "(Song and Mittal, 2020) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-09T13:35:30Z",
-            "owner": "inspire-group",
-            "repo": "membership-inference-evaluation",
-            "stars": 133
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ml-leaks: Model and data independent membership inference attacks and defenses on machine learning models",
-          "description": "(Salem et al., 2019) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-11-22T12:07:30Z",
-            "owner": "AhmedSalem2",
-            "repo": "ML-Leaks",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Privacy risks of securing machine learning models against adversarial examples",
-          "description": "(Song L. et al., 2019) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-11-25T20:57:55Z",
-            "owner": "inspire-group",
-            "repo": "privacy-vs-robustness",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples",
-          "description": "(Jia et al., 2019) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-11-10T17:59:12Z",
-            "owner": "jinyuan-jia",
-            "repo": "MemGuard",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Privacy risk in machine learning: Analyzing the connection to overfitting",
-          "description": ", (Yeom et al., 2018) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-01-28T17:43:10Z",
-            "owner": "sam-yeom",
-            "repo": "ml-privacy-csf18",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Towards the Infeasibility of Membership Inference on Deep Models",
-          "description": "(Rezaei and Liu, 2020) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-02T19:54:54Z",
-            "owner": "shrezaei",
-            "repo": "MI-Attack",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Logan: Membership inference attacks against generative models.",
-          "description": "(Hayes et al. 2019) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-10-02T15:12:27Z",
-            "owner": "jhayes14",
-            "repo": "gen_mem_inf",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Source Inference Attacks in Federated Learning",
-          "description": "(Hu et al., 2021) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-04-12T23:41:12Z",
-            "owner": "HongshengHu",
-            "repo": "source-inference-FL",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Membership inference"
-    },
-    {
-      "description": "Reconstruction attacks cover also attacks known as model inversion and attribute inference.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Deep leakage from gradients",
-          "description": "(Zhu et al., 2019) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-04-17T14:02:28Z",
-            "owner": "mit-han-lab",
-            "repo": "dlg",
-            "stars": 483
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "iDLG: Improved Deep Leakage from Gradients",
-          "description": "(Zhao et al., 2020) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-04T10:33:19Z",
-            "owner": "PatrickZH",
-            "repo": "Improved-Deep-Leakage-from-Gradients",
-            "stars": 165
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Model inversion attacks that exploit confidence information and basic countermeasures",
-          "description": "(Fredrikson et al., 2015) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
+            "archived": true,
+            "id": 137412663,
             "language": "Jupyter Notebook",
-            "last_commit": "2023-02-26T22:48:38Z",
-            "owner": "yashkant",
-            "repo": "model-inversion-attack",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Model inversion attacks against collaborative inference",
-          "description": "(He et al., 2019) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-08-28T03:15:02Z",
-            "owner": "zechenghe",
-            "repo": "Inverse_Collaborative_Inference",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Machine learning models that remember too much",
-          "description": "(Song, C. et al., 2017) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-10-15T14:57:33Z",
-            "owner": "csong27",
-            "repo": "ml-model-remember",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Analysis and Utilization of Hidden Information in Model Inversion Attacks",
-          "description": "(Zhang et al., 2023) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-28T02:57:44Z",
-            "owner": "zhangzp9970",
-            "repo": "Amplified-MIA",
-            "stars": 9
+            "last_commit": "2019-11-02T16:44:32Z",
+            "owner": "Lab41",
+            "repo": "cyphercat",
+            "stars": 104
           }
         }
       ],
-      "title": "Reconstruction"
+      "title": "Privacy Testing Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Exploiting unintended feature leakage in collaborative learning",
-          "description": "(Melis et al., 2019) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-05-28T22:08:03Z",
-            "owner": "csong27",
-            "repo": "property-inference-collaborative-ml",
-            "stars": 56
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Comprehensive privacy analysis of deep learning: Passive and active white-box inference attacks against centralized and federated learning.",
+              "description": "(Nasr et al., 2019) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254225420,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-04-26T02:58:53Z",
+                "owner": "privacytrustlab",
+                "repo": "ml_privacy_meter",
+                "stars": 723
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Membership inference attacks against machine learning models",
+              "description": "(Shokri et al., 2017) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93495956,
+                "language": "Python",
+                "last_commit": "2017-11-15T18:40:25Z",
+                "owner": "csong27",
+                "repo": "membership-inference",
+                "stars": 202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Evaluating differentially private machine learning in practice",
+              "description": "(Jayaraman and Evans, 2019) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173005281,
+                "language": "Python",
+                "last_commit": "2022-12-08T15:57:20Z",
+                "owner": "bargavj",
+                "repo": "EvaluatingDPML",
+                "stars": 136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Systematic Evaluation of Privacy Risks of Machine Learning Models",
+              "description": "(Song and Mittal, 2020) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249539414,
+                "language": "Python",
+                "last_commit": "2024-04-09T13:35:30Z",
+                "owner": "inspire-group",
+                "repo": "membership-inference-evaluation",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ml-leaks: Model and data independent membership inference attacks and defenses on machine learning models",
+              "description": "(Salem et al., 2019) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157727522,
+                "language": "Python",
+                "last_commit": "2021-11-22T12:07:30Z",
+                "owner": "AhmedSalem2",
+                "repo": "ML-Leaks",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Privacy risks of securing machine learning models against adversarial examples",
+              "description": "(Song L. et al., 2019) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201356843,
+                "language": "Python",
+                "last_commit": "2019-11-25T20:57:55Z",
+                "owner": "inspire-group",
+                "repo": "privacy-vs-robustness",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples",
+              "description": "(Jia et al., 2019) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 220828052,
+                "language": "Python",
+                "last_commit": "2019-11-10T17:59:12Z",
+                "owner": "jinyuan-jia",
+                "repo": "MemGuard",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Privacy risk in machine learning: Analyzing the connection to overfitting",
+              "description": ", (Yeom et al., 2018) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167625799,
+                "language": "Python",
+                "last_commit": "2019-01-28T17:43:10Z",
+                "owner": "sam-yeom",
+                "repo": "ml-privacy-csf18",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Towards the Infeasibility of Membership Inference on Deep Models",
+              "description": "(Rezaei and Liu, 2020) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 259782402,
+                "language": "Python",
+                "last_commit": "2024-09-02T19:54:54Z",
+                "owner": "shrezaei",
+                "repo": "MI-Attack",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Logan: Membership inference attacks against generative models.",
+              "description": "(Hayes et al. 2019) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159894927,
+                "language": "Python",
+                "last_commit": "2019-10-02T15:12:27Z",
+                "owner": "jhayes14",
+                "repo": "gen_mem_inf",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Source Inference Attacks in Federated Learning",
+              "description": "(Hu et al., 2021) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 374253862,
+                "language": "Python",
+                "last_commit": "2022-04-12T23:41:12Z",
+                "owner": "HongshengHu",
+                "repo": "source-inference-FL",
+                "stars": 13
+              }
+            }
+          ],
+          "description": "A curated list of membership inference papers (more than 100 papers) on machine learning models is available at this repository.",
+          "node_type": "group",
+          "title": "Membership inference"
         },
         {
-          "node_type": "item",
-          "title": "Honest-but-Curious Nets: Sensitive Attributes of Private Inputs can be Secretly Coded into the Entropy of Classifiers' Outputs",
-          "description": "(Malekzadeh et al. 2021) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-01-11T15:07:52Z",
-            "owner": "mmalekzadeh",
-            "repo": "honest-but-curious-nets",
-            "stars": 17
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Deep leakage from gradients",
+              "description": "(Zhu et al., 2019) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225971708,
+                "language": "Python",
+                "last_commit": "2022-04-17T14:02:28Z",
+                "owner": "mit-han-lab",
+                "repo": "dlg",
+                "stars": 483
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iDLG: Improved Deep Leakage from Gradients",
+              "description": "(Zhao et al., 2020) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 230889438,
+                "language": "Python",
+                "last_commit": "2021-03-04T10:33:19Z",
+                "owner": "PatrickZH",
+                "repo": "Improved-Deep-Leakage-from-Gradients",
+                "stars": 165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Model inversion attacks that exploit confidence information and basic countermeasures",
+              "description": "(Fredrikson et al., 2015) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128599104,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-02-26T22:48:38Z",
+                "owner": "yashkant",
+                "repo": "model-inversion-attack",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Model inversion attacks against collaborative inference",
+              "description": "(He et al., 2019) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205307286,
+                "language": "Python",
+                "last_commit": "2021-08-28T03:15:02Z",
+                "owner": "zechenghe",
+                "repo": "Inverse_Collaborative_Inference",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Machine learning models that remember too much",
+              "description": "(Song, C. et al., 2017) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106962268,
+                "language": "Python",
+                "last_commit": "2017-10-15T14:57:33Z",
+                "owner": "csong27",
+                "repo": "ml-model-remember",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Analysis and Utilization of Hidden Information in Model Inversion Attacks",
+              "description": "(Zhang et al., 2023) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 665495921,
+                "language": "Python",
+                "last_commit": "2025-09-28T02:57:44Z",
+                "owner": "zhangzp9970",
+                "repo": "Amplified-MIA",
+                "stars": 9
+              }
+            }
+          ],
+          "description": "Reconstruction attacks cover also attacks known as model inversion and attribute inference.",
+          "node_type": "group",
+          "title": "Reconstruction"
         },
         {
-          "node_type": "item",
-          "title": "Formalizing and Estimating Distribution Inference Risks",
-          "description": "(Suri and Evans, 2022) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-23T16:36:08Z",
-            "owner": "iamgroot42",
-            "repo": "FormEstDistRisks",
-            "stars": 7
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Exploiting unintended feature leakage in collaborative learning",
+              "description": "(Melis et al., 2019) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159547049,
+                "language": "Python",
+                "last_commit": "2019-05-28T22:08:03Z",
+                "owner": "csong27",
+                "repo": "property-inference-collaborative-ml",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Honest-but-Curious Nets: Sensitive Attributes of Private Inputs can be Secretly Coded into the Entropy of Classifiers' Outputs",
+              "description": "(Malekzadeh et al. 2021) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 370411167,
+                "language": "Python",
+                "last_commit": "2023-01-11T15:07:52Z",
+                "owner": "mmalekzadeh",
+                "repo": "honest-but-curious-nets",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Formalizing and Estimating Distribution Inference Risks",
+              "description": "(Suri and Evans, 2022) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 405520687,
+                "language": "Python",
+                "last_commit": "2023-03-23T16:36:08Z",
+                "owner": "iamgroot42",
+                "repo": "FormEstDistRisks",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dissecting Distribution Inference",
+              "description": "(Suri et al., 2023) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 530683647,
+                "language": "Python",
+                "last_commit": "2023-09-27T17:49:25Z",
+                "owner": "iamgroot42",
+                "repo": "dissecting_dist_inf",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SNAP: Efficient Extraction of Private Properties with Poisoning",
+              "description": "(Chaudhari et al., 2023) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 629168926,
+                "language": "Python",
+                "last_commit": "2024-03-11T18:49:13Z",
+                "owner": "johnmath",
+                "repo": "snap-sp23",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Property Inference Attacks Against GANs",
+              "description": "(Zhou et al., 2021) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 427911276,
+                "language": null,
+                "last_commit": "2021-11-14T11:38:18Z",
+                "owner": "Zhou-Junhao",
+                "repo": "PIA_GAN",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Property inference / Distribution inference"
         },
         {
-          "node_type": "item",
-          "title": "Dissecting Distribution Inference",
-          "description": "(Suri et al., 2023) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-27T17:49:25Z",
-            "owner": "iamgroot42",
-            "repo": "dissecting_dist_inf",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SNAP: Efficient Extraction of Private Properties with Poisoning",
-          "description": "(Chaudhari et al., 2023) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-11T18:49:13Z",
-            "owner": "johnmath",
-            "repo": "snap-sp23",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Property Inference Attacks Against GANs",
-          "description": "(Zhou et al., 2021) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-11-14T11:38:18Z",
-            "owner": "Zhou-Junhao",
-            "repo": "PIA_GAN",
-            "stars": 3
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Thieves on Sesame Street! Model Extraction of BERT-based APIs",
+              "description": "(Krishna et al., 2020) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153201352,
+                "language": "Python",
+                "last_commit": "2026-06-10T18:34:36Z",
+                "owner": "google-research",
+                "repo": "language",
+                "stars": 1794
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stealing machine learning models via prediction apis",
+              "description": "(Tramèr et al., 2016) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62039770,
+                "language": "Python",
+                "last_commit": "2020-11-22T20:52:13Z",
+                "owner": "ftramer",
+                "repo": "Steal-ML",
+                "stars": 359
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Knockoff nets: Stealing functionality of black-box models",
+              "description": "(Orekondy et al., 2019) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176520973,
+                "language": "Python",
+                "last_commit": "2022-12-08T05:48:40Z",
+                "owner": "tribhuvanesh",
+                "repo": "knockoffnets",
+                "stars": 116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MetaSimulator: Simulating Unknown Target Models for Query-Efficient Black-box Attacks",
+              "description": "(Chen and Yong, 2020) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267201217,
+                "language": "Python",
+                "last_commit": "2021-06-18T03:45:00Z",
+                "owner": "machanic",
+                "repo": "SimulatorAttack",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Towards reverse-engineering black-box neural networks.",
+              "description": "(Oh et al., 2018) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112756049,
+                "language": "Python",
+                "last_commit": "2019-06-07T05:09:19Z",
+                "owner": "coallaoh",
+                "repo": "WhitenBlackBox",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PRADA: protecting against DNN model stealing attacks",
+              "description": "(Juuti et al., 2019) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176488422,
+                "language": "Python",
+                "last_commit": "2019-03-20T10:00:48Z",
+                "owner": "SSGAalto",
+                "repo": "prada-protecting-against-dnn-model-stealing-attacks",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks",
+              "description": "(Orekondy et al., 2019) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258996148,
+                "language": "Python",
+                "last_commit": "2020-11-04T21:49:19Z",
+                "owner": "tribhuvanesh",
+                "repo": "prediction-poisoning",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Black-Box Ripper: Copying black-box models using generative evolutionary algorithms",
+              "description": "(Barbalau et al., 2020) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 306052507,
+                "language": "Python",
+                "last_commit": "2020-10-25T09:48:14Z",
+                "owner": "antoniobarbalau",
+                "repo": "black-box-ripper",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data",
+              "description": "(Correia-Silva et al., 2018) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115868527,
+                "language": "HTML",
+                "last_commit": "2024-04-17T04:35:53Z",
+                "owner": "jeiks",
+                "repo": "Stealing_DL_Models",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints",
+              "description": "(Hu et al., 2020) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226045348,
+                "language": "Python",
+                "last_commit": "2020-01-13T09:54:33Z",
+                "owner": "xinghu7788",
+                "repo": "DeepSniffer",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Increasing the Cost of Model Extraction with Calibrated Proof of Work",
+              "description": "(Dziedzic et al. 2022) code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 472614787,
+                "language": "Python",
+                "last_commit": "2022-07-11T20:34:09Z",
+                "owner": "cleverhans-lab",
+                "repo": "model-extraction-iclr",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Model Extraction and Adversarial Transferability, Your BERT is Vulnerable!",
+              "description": "(He et al., 2021) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 348717885,
+                "language": "Python",
+                "last_commit": "2021-06-05T11:08:21Z",
+                "owner": "xlhex",
+                "repo": "extract_and_transfer",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "On the Difficulty of Defending Self-Supervised Learning against Model Extraction",
+              "description": "(Dziedzic et al., 2022) code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 507993915,
+                "language": "Python",
+                "last_commit": "2022-06-27T18:35:37Z",
+                "owner": "cleverhans-lab",
+                "repo": "ssl-attacks-defenses",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dataset Inference for Self-Supervised Models",
+              "description": "(Dziedzic et al., 2022) code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 557566803,
+                "language": "Python",
+                "last_commit": "2023-05-04T15:21:03Z",
+                "owner": "cleverhans-lab",
+                "repo": "DatasetInferenceForSelfSupervisedModels",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Model extraction from counterfactual explanations",
+              "description": "(Aïvodji et al., 2020) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267099785,
+                "language": "Python",
+                "last_commit": "2020-12-05T02:36:15Z",
+                "owner": "aivodji",
+                "repo": "mrce",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "How to 0wn NAS in Your Spare Time",
+              "description": "(Hong et al., 2020) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 230947388,
+                "language": "Python",
+                "last_commit": "2020-02-19T08:52:34Z",
+                "owner": "Sanghyun-Hong",
+                "repo": "How-to-0wn-NAS-in-Your-Spare-Time",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Model extraction"
         }
       ],
-      "title": "Property inference / Distribution inference"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Thieves on Sesame Street! Model Extraction of BERT-based APIs",
-          "description": "(Krishna et al., 2020) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-10T18:34:36Z",
-            "owner": "google-research",
-            "repo": "language",
-            "stars": 1794
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stealing machine learning models via prediction apis",
-          "description": "(Tramèr et al., 2016) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-11-22T20:52:13Z",
-            "owner": "ftramer",
-            "repo": "Steal-ML",
-            "stars": 359
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Knockoff nets: Stealing functionality of black-box models",
-          "description": "(Orekondy et al., 2019) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-08T05:48:40Z",
-            "owner": "tribhuvanesh",
-            "repo": "knockoffnets",
-            "stars": 116
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MetaSimulator: Simulating Unknown Target Models for Query-Efficient Black-box Attacks",
-          "description": "(Chen and Yong, 2020) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-06-18T03:45:00Z",
-            "owner": "machanic",
-            "repo": "SimulatorAttack",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Towards reverse-engineering black-box neural networks.",
-          "description": "(Oh et al., 2018) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-06-07T05:09:19Z",
-            "owner": "coallaoh",
-            "repo": "WhitenBlackBox",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PRADA: protecting against DNN model stealing attacks",
-          "description": "(Juuti et al., 2019) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-03-20T10:00:48Z",
-            "owner": "SSGAalto",
-            "repo": "prada-protecting-against-dnn-model-stealing-attacks",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks",
-          "description": "(Orekondy et al., 2019) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-11-04T21:49:19Z",
-            "owner": "tribhuvanesh",
-            "repo": "prediction-poisoning",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Black-Box Ripper: Copying black-box models using generative evolutionary algorithms",
-          "description": "(Barbalau et al., 2020) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-10-25T09:48:14Z",
-            "owner": "antoniobarbalau",
-            "repo": "black-box-ripper",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data",
-          "description": "(Correia-Silva et al., 2018) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-04-17T04:35:53Z",
-            "owner": "jeiks",
-            "repo": "Stealing_DL_Models",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints",
-          "description": "(Hu et al., 2020) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-01-13T09:54:33Z",
-            "owner": "xinghu7788",
-            "repo": "DeepSniffer",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Increasing the Cost of Model Extraction with Calibrated Proof of Work",
-          "description": "(Dziedzic et al. 2022) code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-07-11T20:34:09Z",
-            "owner": "cleverhans-lab",
-            "repo": "model-extraction-iclr",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Model Extraction and Adversarial Transferability, Your BERT is Vulnerable!",
-          "description": "(He et al., 2021) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-06-05T11:08:21Z",
-            "owner": "xlhex",
-            "repo": "extract_and_transfer",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "On the Difficulty of Defending Self-Supervised Learning against Model Extraction",
-          "description": "(Dziedzic et al., 2022) code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-06-27T18:35:37Z",
-            "owner": "cleverhans-lab",
-            "repo": "ssl-attacks-defenses",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dataset Inference for Self-Supervised Models",
-          "description": "(Dziedzic et al., 2022) code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-04T15:21:03Z",
-            "owner": "cleverhans-lab",
-            "repo": "DatasetInferenceForSelfSupervisedModels",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Model extraction from counterfactual explanations",
-          "description": "(Aïvodji et al., 2020) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-12-05T02:36:15Z",
-            "owner": "aivodji",
-            "repo": "mrce",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "How to 0wn NAS in Your Spare Time",
-          "description": "(Hong et al., 2020) (code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-02-19T08:52:34Z",
-            "owner": "Sanghyun-Hong",
-            "repo": "How-to-0wn-NAS-in-Your-Spare-Time",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Model extraction"
+      "title": "Papers and Code"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:18:12.283Z",
+    "last_updated": "2026-08-19T12:40:58.608Z",
     "original_repository": "stratosphereips/awesome-ml-privacy-attacks",
+    "original_repository_id": 277843643,
     "original_repository_sha": "9d88023349812436954957c077e06b72694c6e1b",
     "enhanced_repository": "enhansome/enhansome-ml-privacy-attacks",
     "enhanced_repository_description": null,
