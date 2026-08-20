@@ -32,7 +32,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 # Privacy Testing Tools
 
 * [**Adversarial Robustness Toolbox (ART)**](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,185 | 🐛 18 | 🌐 Python | 📅 2025-12-12 (IBM)
-* [**TensorFlow Privacy**](https://github.com/tensorflow/privacy/tree/master/tensorflow_privacy/privacy/membership_inference_attack) ⭐ 2,022 | 🐛 135 | 🌐 Python | 📅 2026-07-08 (TensorFlow)
+* [**TensorFlow Privacy**](https://github.com/tensorflow/privacy/tree/master/tensorflow_privacy/privacy/membership_inference_attack) ⭐ 2,022 | 🐛 136 | 🌐 Python | 📅 2026-08-19 (TensorFlow)
 * [**Machine Learning Privacy Meter**](https://github.com/privacytrustlab/ml_privacy_meter) ⭐ 723 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2025-04-26 (NUS Data Privacy and Trustworthy Machine Learning Lab)
 * [**PrivacyRaven**](https://github.com/trailofbits/PrivacyRaven) ⚠️ Archived (Trail of Bits)
 * [**CypherCat (archive-only)**](https://github.com/Lab41/cyphercat) ⚠️ Archived (IQT Labs/Lab 41)
@@ -112,7 +112,7 @@ A curated list of membership inference papers (more than 100 papers) on machine 
 
 Reconstruction attacks cover also attacks known as *model inversion* and *attribute inference*.
 
-* [**Deep leakage from gradients**](https://papers.nips.cc/paper/9617-deep-leakage-from-gradients.pdf) (Zhu et al., 2019) ([code](https://github.com/mit-han-lab/dlg) ⭐ 483 | 🐛 5 | 🌐 Python | 📅 2022-04-17)
+* [**Deep leakage from gradients**](https://papers.nips.cc/paper/9617-deep-leakage-from-gradients.pdf) (Zhu et al., 2019) ([code](https://github.com/mit-han-lab/dlg) ⭐ 482 | 🐛 5 | 🌐 Python | 📅 2022-04-17)
 * [**iDLG: Improved Deep Leakage from Gradients**](https://arxiv.org/pdf/2001.02610) (Zhao et al., 2020) ([code](https://github.com/PatrickZH/Improved-Deep-Leakage-from-Gradients) ⭐ 165 | 🐛 2 | 🌐 Python | 📅 2021-03-04)
 * [**Model inversion attacks that exploit confidence information and basic countermeasures**](https://dl.acm.org/doi/pdf/10.1145/2810103.2813677) (Fredrikson et al., 2015) ([code](https://github.com/yashkant/Model-Inversion-Attack) ⭐ 84 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-02-26)
 * [**Model inversion attacks against collaborative inference**](https://dl.acm.org/doi/abs/10.1145/3359789.3359824) (He et al., 2019) ([code](https://github.com/zechenghe/Inverse_Collaborative_Inference) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2021-08-28)
@@ -195,7 +195,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 
 ## Model extraction
 
-* [**Thieves on Sesame Street! Model Extraction of BERT-based APIs**](https://openreview.net/attachment?id=Byl5NREFDr\&name=original_pdf) (Krishna et al., 2020) ([code](https://github.com/google-research/language/tree/master/language/bert_extraction) ⭐ 1,794 | 🐛 121 | 🌐 Python | 📅 2026-06-10)
+* [**Thieves on Sesame Street! Model Extraction of BERT-based APIs**](https://openreview.net/attachment?id=Byl5NREFDr\&name=original_pdf) (Krishna et al., 2020) ([code](https://github.com/google-research/language/tree/master/language/bert_extraction) ⭐ 1,795 | 🐛 121 | 🌐 Python | 📅 2026-06-10)
 * [**Stealing machine learning models via prediction apis**](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_tramer.pdf) (Tramèr et al., 2016) ([code](https://github.com/ftramer/Steal-ML) ⭐ 359 | 🐛 5 | 🌐 Python | 📅 2020-11-22)
 * [**Knockoff nets: Stealing functionality of black-box models**](http://openaccess.thecvf.com/content_CVPR_2019/papers/Orekondy_Knockoff_Nets_Stealing_Functionality_of_Black-Box_Models_CVPR_2019_paper.pdf) (Orekondy et al., 2019) ([code](https://github.com/tribhuvanesh/knockoffnets) ⭐ 116 | 🐛 4 | 🌐 Python | 📅 2022-12-08)
 * [**MetaSimulator: Simulating Unknown Target Models for Query-Efficient Black-box Attacks**](https://arxiv.org/abs/2009.00960) (Chen and Yong, 2020) ([code](https://github.com/machanic/MetaSimulator) ⭐ 59 | 🐛 10 | 🌐 Python | 📅 2021-06-18)
@@ -281,4 +281,4 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
