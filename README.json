@@ -15,7 +15,7 @@
             "last_commit": "2025-12-12T07:01:28Z",
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
-            "stars": 6190
+            "stars": 6192
           }
         },
         {
@@ -559,6 +559,21 @@
             },
             {
               "node_type": "item",
+              "title": "DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints",
+              "description": "(Hu et al., 2020) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226045348,
+                "language": "Python",
+                "last_commit": "2020-01-13T09:54:33Z",
+                "owner": "xinghu7788",
+                "repo": "DeepSniffer",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Black-Box Ripper: Copying black-box models using generative evolutionary algorithms",
               "description": "(Barbalau et al., 2020) (code)",
               "children": [],
@@ -584,21 +599,6 @@
                 "last_commit": "2024-04-17T04:35:53Z",
                 "owner": "jeiks",
                 "repo": "Stealing_DL_Models",
-                "stars": 28
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints",
-              "description": "(Hu et al., 2020) (code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 226045348,
-                "language": "Python",
-                "last_commit": "2020-01-13T09:54:33Z",
-                "owner": "xinghu7788",
-                "repo": "DeepSniffer",
                 "stars": 28
               }
             },
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T06:13:36.614Z",
+    "last_updated": "2026-08-23T06:16:17.057Z",
     "original_repository": "stratosphereips/awesome-ml-privacy-attacks",
     "original_repository_id": 277843643,
     "original_repository_sha": "9d88023349812436954957c077e06b72694c6e1b",
