@@ -15,7 +15,7 @@
             "last_commit": "2025-12-12T07:01:28Z",
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
-            "stars": 6192
+            "stars": 6194
           }
         },
         {
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T06:16:17.057Z",
+    "last_updated": "2026-08-24T06:26:33.720Z",
     "original_repository": "stratosphereips/awesome-ml-privacy-attacks",
     "original_repository_id": 277843643,
     "original_repository_sha": "9d88023349812436954957c077e06b72694c6e1b",
