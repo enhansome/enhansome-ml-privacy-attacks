@@ -15,7 +15,7 @@
             "last_commit": "2025-12-12T07:01:28Z",
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
-            "stars": 6197
+            "stars": 6200
           }
         },
         {
@@ -559,6 +559,21 @@
             },
             {
               "node_type": "item",
+              "title": "Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data",
+              "description": "(Correia-Silva et al., 2018) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115868527,
+                "language": "HTML",
+                "last_commit": "2024-04-17T04:35:53Z",
+                "owner": "jeiks",
+                "repo": "Stealing_DL_Models",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
               "title": "DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints",
               "description": "(Hu et al., 2020) (code)",
               "children": [],
@@ -585,21 +600,6 @@
                 "owner": "antoniobarbalau",
                 "repo": "black-box-ripper",
                 "stars": 29
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data",
-              "description": "(Correia-Silva et al., 2018) (code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 115868527,
-                "language": "HTML",
-                "last_commit": "2024-04-17T04:35:53Z",
-                "owner": "jeiks",
-                "repo": "Stealing_DL_Models",
-                "stars": 28
               }
             },
             {
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:19:13.459Z",
+    "last_updated": "2026-08-25T06:14:44.148Z",
     "original_repository": "stratosphereips/awesome-ml-privacy-attacks",
     "original_repository_id": 277843643,
     "original_repository_sha": "9d88023349812436954957c077e06b72694c6e1b",

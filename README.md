@@ -31,7 +31,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 
 # Privacy Testing Tools
 
-* [**Adversarial Robustness Toolbox (ART)**](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,197 | 🐛 19 | 🌐 Python | 📅 2025-12-12 (IBM)
+* [**Adversarial Robustness Toolbox (ART)**](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,200 | 🐛 19 | 🌐 Python | 📅 2025-12-12 (IBM)
 * [**TensorFlow Privacy**](https://github.com/tensorflow/privacy/tree/master/tensorflow_privacy/privacy/membership_inference_attack) ⭐ 2,022 | 🐛 136 | 🌐 Python | 📅 2026-08-19 (TensorFlow)
 * [**Machine Learning Privacy Meter**](https://github.com/privacytrustlab/ml_privacy_meter) ⭐ 723 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2025-04-26 (NUS Data Privacy and Trustworthy Machine Learning Lab)
 * [**PrivacyRaven**](https://github.com/trailofbits/PrivacyRaven) ⚠️ Archived (Trail of Bits)
@@ -202,9 +202,9 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 * [**Towards reverse-engineering black-box neural networks.**](https://openreview.net/forum?id=BydjJte0-)(Oh et al., 2018) ([code](https://github.com/coallaoh/WhitenBlackBox) ⭐ 55 | 🐛 1 | 🌐 Python | 📅 2019-06-07)
 * [**PRADA: protecting against DNN model stealing attacks**](https://ieeexplore.ieee.org/document/8806737) (Juuti et al., 2019) ([code](https://github.com/SSGAalto/prada-protecting-against-dnn-model-stealing-attacks) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2019-03-20)
 * [**Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks**](https://arxiv.org/abs/1906.10908) (Orekondy et al., 2019) ([code](https://github.com/tribhuvanesh/prediction-poisoning) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2020-11-04)
+* [**Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data**](https://ieeexplore.ieee.org/document/8489592) (Correia-Silva et al., 2018) ([code](https://github.com/jeiks/Stealing_DL_Models) ⭐ 29 | 🐛 0 | 🌐 HTML | 📅 2024-04-17)
 * [**DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints**](https://dl.acm.org/doi/pdf/10.1145/3373376.3378460) (Hu et al., 2020) ([code](https://github.com/xinghu7788/DeepSniffer) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2020-01-13)
 * [**Black-Box Ripper: Copying black-box models using generative evolutionary algorithms**](https://arxiv.org/abs/2010.11158) (Barbalau et al., 2020) ([code](https://github.com/antoniobarbalau/black-box-ripper) ⭐ 29 | 🐛 4 | 🌐 Python | 📅 2020-10-25)
-* [**Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data**](https://ieeexplore.ieee.org/document/8489592) (Correia-Silva et al., 2018) ([code](https://github.com/jeiks/Stealing_DL_Models) ⭐ 28 | 🐛 0 | 🌐 HTML | 📅 2024-04-17)
 * [**Increasing the Cost of Model Extraction with Calibrated Proof of Work**](https://openreview.net/forum?id=EAy7C1cgE1L) (Dziedzic et al. 2022) [code](https://github.com/cleverhans-lab/model-extraction-iclr) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2022-07-11
 * [**Model Extraction and Adversarial Transferability, Your BERT is Vulnerable!**](https://arxiv.org/abs/2103.10013) (He et al., 2021) ([code](https://github.com/xlhex/extract_and_transfer) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2021-06-05)
 * [**On the Difficulty of Defending Self-Supervised Learning against Model Extraction**](https://proceedings.mlr.press/v162/dziedzic22a/dziedzic22a.pdf) (Dziedzic et al., 2022) [code](https://github.com/cleverhans-lab/ssl-attacks-defenses) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2022-06-27
@@ -281,4 +281,4 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
