@@ -15,7 +15,7 @@
             "last_commit": "2025-12-12T07:01:28Z",
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
-            "stars": 6200
+            "stars": 6202
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 162747292,
             "language": "Python",
-            "last_commit": "2026-08-19T17:40:33Z",
+            "last_commit": "2026-08-25T22:39:28Z",
             "owner": "tensorflow",
             "repo": "privacy",
-            "stars": 2022
+            "stars": 2026
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-04-26T02:58:53Z",
             "owner": "privacytrustlab",
             "repo": "ml_privacy_meter",
-            "stars": 723
+            "stars": 724
           }
         },
         {
@@ -98,7 +98,7 @@
                 "last_commit": "2025-04-26T02:58:53Z",
                 "owner": "privacytrustlab",
                 "repo": "ml_privacy_meter",
-                "stars": 723
+                "stars": 724
               }
             },
             {
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:41:00.644Z",
+    "last_updated": "2026-08-26T06:21:21.111Z",
     "original_repository": "stratosphereips/awesome-ml-privacy-attacks",
     "original_repository_id": 277843643,
     "original_repository_sha": "9d88023349812436954957c077e06b72694c6e1b",
