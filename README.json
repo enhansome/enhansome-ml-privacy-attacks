@@ -15,8 +15,9 @@
             "last_commit": "2025-12-12T07:01:28Z",
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
-            "stars": 6206
-          }
+            "stars": 6209
+          },
+          "first_seen": "2026-08-28T17:43:39.338Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "tensorflow",
             "repo": "privacy",
             "stars": 2026
-          }
+          },
+          "first_seen": "2026-08-28T17:43:39.338Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "privacytrustlab",
             "repo": "ml_privacy_meter",
             "stars": 724
-          }
+          },
+          "first_seen": "2026-08-28T17:43:39.338Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "trailofbits",
             "repo": "PrivacyRaven",
             "stars": 213
-          }
+          },
+          "first_seen": "2026-08-28T17:43:39.338Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "Lab41",
             "repo": "cyphercat",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T17:43:39.338Z"
         }
       ],
       "title": "Privacy Testing Tools"
@@ -99,7 +104,8 @@
                 "owner": "privacytrustlab",
                 "repo": "ml_privacy_meter",
                 "stars": 724
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "csong27",
                 "repo": "membership-inference",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "bargavj",
                 "repo": "EvaluatingDPML",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "inspire-group",
                 "repo": "membership-inference-evaluation",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "AhmedSalem2",
                 "repo": "ML-Leaks",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "inspire-group",
                 "repo": "privacy-vs-robustness",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "jinyuan-jia",
                 "repo": "MemGuard",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "sam-yeom",
                 "repo": "ml-privacy-csf18",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "shrezaei",
                 "repo": "MI-Attack",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -234,7 +248,8 @@
                 "owner": "jhayes14",
                 "repo": "gen_mem_inf",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -249,7 +264,8 @@
                 "owner": "HongshengHu",
                 "repo": "source-inference-FL",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             }
           ],
           "description": "A curated list of membership inference papers (more than 100 papers) on machine learning models is available at this repository.",
@@ -271,7 +287,8 @@
                 "owner": "mit-han-lab",
                 "repo": "dlg",
                 "stars": 484
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -286,7 +303,8 @@
                 "owner": "PatrickZH",
                 "repo": "Improved-Deep-Leakage-from-Gradients",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -301,7 +319,8 @@
                 "owner": "yashkant",
                 "repo": "model-inversion-attack",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -316,7 +335,8 @@
                 "owner": "zechenghe",
                 "repo": "Inverse_Collaborative_Inference",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -331,7 +351,8 @@
                 "owner": "csong27",
                 "repo": "ml-model-remember",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -346,7 +367,8 @@
                 "owner": "zhangzp9970",
                 "repo": "Amplified-MIA",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             }
           ],
           "description": "Reconstruction attacks cover also attacks known as model inversion and attribute inference.",
@@ -368,7 +390,8 @@
                 "owner": "csong27",
                 "repo": "property-inference-collaborative-ml",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -383,7 +406,8 @@
                 "owner": "mmalekzadeh",
                 "repo": "honest-but-curious-nets",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -398,7 +422,8 @@
                 "owner": "iamgroot42",
                 "repo": "FormEstDistRisks",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -413,7 +438,8 @@
                 "owner": "iamgroot42",
                 "repo": "dissecting_dist_inf",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -428,7 +454,8 @@
                 "owner": "johnmath",
                 "repo": "snap-sp23",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -443,7 +470,8 @@
                 "owner": "Zhou-Junhao",
                 "repo": "PIA_GAN",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             }
           ],
           "description": null,
@@ -465,7 +493,8 @@
                 "owner": "google-research",
                 "repo": "language",
                 "stars": 1795
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -480,7 +509,8 @@
                 "owner": "ftramer",
                 "repo": "Steal-ML",
                 "stars": 359
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -495,7 +525,8 @@
                 "owner": "tribhuvanesh",
                 "repo": "knockoffnets",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -510,7 +541,8 @@
                 "owner": "machanic",
                 "repo": "SimulatorAttack",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -525,7 +557,8 @@
                 "owner": "coallaoh",
                 "repo": "WhitenBlackBox",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -540,7 +573,8 @@
                 "owner": "SSGAalto",
                 "repo": "prada-protecting-against-dnn-model-stealing-attacks",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -555,7 +589,8 @@
                 "owner": "tribhuvanesh",
                 "repo": "prediction-poisoning",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -570,7 +605,8 @@
                 "owner": "jeiks",
                 "repo": "Stealing_DL_Models",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -585,7 +621,8 @@
                 "owner": "xinghu7788",
                 "repo": "DeepSniffer",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -600,7 +637,8 @@
                 "owner": "antoniobarbalau",
                 "repo": "black-box-ripper",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -615,7 +653,8 @@
                 "owner": "cleverhans-lab",
                 "repo": "model-extraction-iclr",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -630,7 +669,8 @@
                 "owner": "xlhex",
                 "repo": "extract_and_transfer",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -645,7 +685,8 @@
                 "owner": "cleverhans-lab",
                 "repo": "ssl-attacks-defenses",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -660,7 +701,8 @@
                 "owner": "cleverhans-lab",
                 "repo": "DatasetInferenceForSelfSupervisedModels",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -675,7 +717,8 @@
                 "owner": "aivodji",
                 "repo": "mrce",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             },
             {
               "node_type": "item",
@@ -690,7 +733,8 @@
                 "owner": "Sanghyun-Hong",
                 "repo": "How-to-0wn-NAS-in-Your-Spare-Time",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
             }
           ],
           "description": null,
@@ -702,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:51:06.508Z",
+    "last_updated": "2026-08-28T17:43:39.338Z",
     "original_repository_info": {
       "archived": false,
       "id": 277843643,
