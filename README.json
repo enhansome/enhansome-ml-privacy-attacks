@@ -10,12 +10,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams",
+            "homepage": "https://adversarial-robustness-toolbox.readthedocs.io/en/latest/",
             "id": 125381318,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-12T07:01:28Z",
+            "open_issues": 20,
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
-            "stars": 6209
+            "stars": 6209,
+            "topics": [
+              "adversarial-attacks",
+              "adversarial-examples",
+              "adversarial-machine-learning",
+              "ai",
+              "artificial-intelligence",
+              "attack",
+              "blue-team",
+              "evasion",
+              "extraction",
+              "inference",
+              "machine-learning",
+              "poisoning",
+              "privacy",
+              "python",
+              "red-team",
+              "trusted-ai",
+              "trustworthy-ai"
+            ]
           },
           "first_seen": "2026-08-28T17:43:39.338Z"
         },
@@ -26,12 +49,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library for training machine learning models with privacy for training data",
+            "homepage": null,
             "id": 162747292,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T19:07:16Z",
+            "open_issues": 136,
             "owner": "tensorflow",
             "repo": "privacy",
-            "stars": 2026
+            "stars": 2026,
+            "topics": [
+              "machine-learning",
+              "privacy"
+            ]
           },
           "first_seen": "2026-08-28T17:43:39.338Z"
         },
@@ -42,12 +73,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Privacy Meter: An open-source library to audit data privacy in statistical and machine learning algorithms.",
+            "homepage": null,
             "id": 254225420,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-04-26T02:58:53Z",
+            "open_issues": 11,
             "owner": "privacytrustlab",
             "repo": "ml_privacy_meter",
-            "stars": 724
+            "stars": 724,
+            "topics": [
+              "data-privacy",
+              "data-protection",
+              "data-protection-impact-assessment",
+              "explainable-ai",
+              "gdpr",
+              "inference",
+              "information-leakage",
+              "machine-learning",
+              "membership-inference-attack",
+              "privacy",
+              "privacy-audit"
+            ]
           },
           "first_seen": "2026-08-28T17:43:39.338Z"
         },
@@ -58,12 +106,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Privacy Testing for Deep Learning",
+            "homepage": null,
             "id": 266141010,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-05T19:03:08Z",
+            "open_issues": 37,
             "owner": "trailofbits",
             "repo": "PrivacyRaven",
-            "stars": 213
+            "stars": 213,
+            "topics": [
+              "deep-learning",
+              "machine-learning",
+              "membership-inference",
+              "model-extraction",
+              "model-inversion",
+              "privacy",
+              "privacy-enhancing-technologies",
+              "privacy-preserving-machine-learning",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T17:43:39.338Z"
         },
@@ -74,12 +137,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": " Implementation of membership inference and model inversion attacks, extracting training data information from an ML model. Benchmarking attacks and defenses.",
+            "homepage": null,
             "id": 137412663,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2019-11-02T16:44:32Z",
+            "open_issues": 15,
             "owner": "Lab41",
             "repo": "cyphercat",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:39.338Z"
         }
@@ -98,12 +166,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Privacy Meter: An open-source library to audit data privacy in statistical and machine learning algorithms.",
+                "homepage": null,
                 "id": 254225420,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-04-26T02:58:53Z",
+                "open_issues": 11,
                 "owner": "privacytrustlab",
                 "repo": "ml_privacy_meter",
-                "stars": 724
+                "stars": 724,
+                "topics": [
+                  "data-privacy",
+                  "data-protection",
+                  "data-protection-impact-assessment",
+                  "explainable-ai",
+                  "gdpr",
+                  "inference",
+                  "information-leakage",
+                  "machine-learning",
+                  "membership-inference-attack",
+                  "privacy",
+                  "privacy-audit"
+                ]
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -114,12 +199,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Membership Inference Attack against Machine Learning Models (in Oakland 2017)",
+                "homepage": null,
                 "id": 93495956,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-11-15T18:40:25Z",
+                "open_issues": 10,
                 "owner": "csong27",
                 "repo": "membership-inference",
-                "stars": 202
+                "stars": 202,
+                "topics": [
+                  "machine-learning",
+                  "privacy"
+                ]
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -130,12 +223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project's goal is to evaluate the privacy leakage of differentially private machine learning models.",
+                "homepage": null,
                 "id": 173005281,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-08T15:57:20Z",
+                "open_issues": 2,
                 "owner": "bargavj",
                 "repo": "EvaluatingDPML",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -146,12 +244,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Systematic Evaluation of Membership Inference Privacy Risks of Machine Learning Models",
+                "homepage": "https://arxiv.org/abs/2003.10595",
                 "id": 249539414,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-09T13:35:30Z",
+                "open_issues": 3,
                 "owner": "inspire-group",
                 "repo": "membership-inference-evaluation",
-                "stars": 133
+                "stars": 133,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -162,12 +265,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper \"ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models\"",
+                "homepage": null,
                 "id": 157727522,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-11-22T12:07:30Z",
+                "open_issues": 4,
                 "owner": "AhmedSalem2",
                 "repo": "ML-Leaks",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -178,12 +286,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Privacy Risks of Securing Machine Learning Models against Adversarial Examples",
+                "homepage": "https://arxiv.org/abs/1905.10291",
                 "id": 201356843,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-11-25T20:57:55Z",
+                "open_issues": 0,
                 "owner": "inspire-group",
                 "repo": "privacy-vs-robustness",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -194,12 +307,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 220828052,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-11-10T17:59:12Z",
+                "open_issues": 0,
                 "owner": "jinyuan-jia",
                 "repo": "MemGuard",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -210,12 +328,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the CSF 2018 paper \"Privacy Risk in Machine Learning: Analyzing the Connection to Overfitting\"",
+                "homepage": null,
                 "id": 167625799,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-01-28T17:43:10Z",
+                "open_issues": 1,
                 "owner": "sam-yeom",
                 "repo": "ml-privacy-csf18",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -226,12 +349,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 259782402,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-09-02T19:54:54Z",
+                "open_issues": 0,
                 "owner": "shrezaei",
                 "repo": "MI-Attack",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -242,12 +370,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Membership Inference of Generative Models",
+                "homepage": null,
                 "id": 159894927,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-10-02T15:12:27Z",
+                "open_issues": 0,
                 "owner": "jhayes14",
                 "repo": "gen_mem_inf",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -258,12 +391,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 374253862,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-04-12T23:41:12Z",
+                "open_issues": 4,
                 "owner": "HongshengHu",
                 "repo": "source-inference-FL",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             }
@@ -281,12 +419,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2019] Deep Leakage From Gradients",
+                "homepage": "https://dlg.mit.edu/",
                 "id": 225971708,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-17T14:02:28Z",
+                "open_issues": 5,
                 "owner": "mit-han-lab",
                 "repo": "dlg",
-                "stars": 484
+                "stars": 484,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -297,12 +440,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code for \"Improved Deep Leakage from Gradients\" (iDLG).",
+                "homepage": null,
                 "id": 230889438,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-03-04T10:33:19Z",
+                "open_issues": 2,
                 "owner": "PatrickZH",
                 "repo": "Improved-Deep-Leakage-from-Gradients",
-                "stars": 165
+                "stars": 165,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -313,12 +461,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of the Model Inversion Attack introduced with Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures (Fredrikson Et al.)",
+                "homepage": null,
                 "id": 128599104,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-02-26T22:48:38Z",
+                "open_issues": 3,
                 "owner": "yashkant",
                 "repo": "model-inversion-attack",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "model-inversion-attacks",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -329,12 +485,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 205307286,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-08-28T03:15:02Z",
+                "open_issues": 0,
                 "owner": "zechenghe",
                 "repo": "Inverse_Collaborative_Inference",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -345,12 +506,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Machine Learning Models that Remember Too Much (in CCS 2017)",
+                "homepage": null,
                 "id": 106962268,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-10-15T14:57:33Z",
+                "open_issues": 0,
                 "owner": "csong27",
                 "repo": "ml-model-remember",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "machine-learning",
+                  "privacy"
+                ]
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -361,12 +530,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for paper: Z. Zhang, X. Wang, J. Huang and S. Zhang, \"Analysis and Utilization of Hidden Information in Model Inversion Attacks,\" in IEEE Transactions on Information Forensics and Security, doi: 10.1109/TIFS.2023.3295942",
+                "homepage": "https://doi.org/10.1109/TIFS.2023.3295942",
                 "id": 665495921,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-09-28T02:57:44Z",
+                "open_issues": 0,
                 "owner": "zhangzp9970",
                 "repo": "Amplified-MIA",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "ai-security",
+                  "deep-learning",
+                  "model-inversion-attack",
+                  "model-inversion-attacks",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             }
@@ -384,12 +564,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Exploiting Unintended Feature Leakage in Collaborative Learning (in Oakland 2019)",
+                "homepage": null,
                 "id": 159547049,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-05-28T22:08:03Z",
+                "open_issues": 8,
                 "owner": "csong27",
                 "repo": "property-inference-collaborative-ml",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -400,12 +585,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Honest-but-Curious Nets: Sensitive Attributes of Private Inputs Can Be Secretly Coded into the Classifiers' Outputs (ACM CCS'21)",
+                "homepage": "https://arxiv.org/abs/2105.12049",
                 "id": 370411167,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-11T15:07:52Z",
+                "open_issues": 0,
                 "owner": "mmalekzadeh",
                 "repo": "honest-but-curious-nets",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "adversarial-machine-learning",
+                  "celeba-dataset",
+                  "data-privacy",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "entropy",
+                  "information-theory",
+                  "machine-learning",
+                  "machine-learning-security",
+                  "mutual-information",
+                  "privacy",
+                  "pytorch",
+                  "utkface"
+                ]
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -416,12 +620,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for our work 'Formalizing and Estimating Distribution Inference Risks'",
+                "homepage": null,
                 "id": 405520687,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2023-03-23T16:36:08Z",
+                "open_issues": 0,
                 "owner": "iamgroot42",
                 "repo": "FormEstDistRisks",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -432,12 +641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for `Dissecting Distribution Inference'",
+                "homepage": null,
                 "id": 530683647,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-09-27T17:49:25Z",
+                "open_issues": 0,
                 "owner": "iamgroot42",
                 "repo": "dissecting_dist_inf",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -448,12 +662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amplifying property inference attacks with data poisoning",
+                "homepage": "https://arxiv.org/abs/2208.12348",
                 "id": 629168926,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-11T18:49:13Z",
+                "open_issues": 0,
                 "owner": "johnmath",
                 "repo": "snap-sp23",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -464,12 +683,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 427911276,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-11-14T11:38:18Z",
+                "open_issues": 2,
                 "owner": "Zhou-Junhao",
                 "repo": "PIA_GAN",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             }
@@ -487,12 +711,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shared repository for open-sourced projects from the Google AI Language team.",
+                "homepage": "https://ai.google/research/teams/language/",
                 "id": 153201352,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-10T18:34:36Z",
+                "open_issues": 121,
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1795
+                "stars": 1795,
+                "topics": [
+                  "machine-learning",
+                  "natural-language-processing",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -503,12 +736,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model extraction attacks on Machine-Learning-as-a-Service platforms.",
+                "homepage": null,
                 "id": 62039770,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-11-22T20:52:13Z",
+                "open_issues": 5,
                 "owner": "ftramer",
                 "repo": "Steal-ML",
-                "stars": 359
+                "stars": 359,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -519,12 +757,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Knockoff Nets: Stealing Functionality of Black-Box Models",
+                "homepage": "https://resources.mpi-inf.mpg.de/d2/orekondy/knockoff/",
                 "id": 176520973,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2022-12-08T05:48:40Z",
+                "open_issues": 4,
                 "owner": "tribhuvanesh",
                 "repo": "knockoffnets",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -535,12 +778,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of CVPR 2021 paper \"Simulating Unknown Target Models for Query-Efficient Black-box Attacks\"",
+                "homepage": "https://arxiv.org/abs/2009.00960",
                 "id": 267201217,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-06-18T03:45:00Z",
+                "open_issues": 10,
                 "owner": "machanic",
                 "repo": "SimulatorAttack",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -551,12 +799,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Towards Reverse-Engineering Black-Box Neural Networks, ICLR'18",
+                "homepage": null,
                 "id": 112756049,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-06-07T05:09:19Z",
+                "open_issues": 1,
                 "owner": "coallaoh",
                 "repo": "WhitenBlackBox",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "blackbox",
+                  "iclr",
+                  "neural-network",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -567,12 +825,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reference implementation of the PRADA model stealing defense. IEEE Euro S&P 2019.",
+                "homepage": null,
                 "id": 176488422,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-03-20T10:00:48Z",
+                "open_issues": 0,
                 "owner": "SSGAalto",
                 "repo": "prada-protecting-against-dnn-model-stealing-attacks",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "machine-learning",
+                  "research",
+                  "research-paper",
+                  "saas",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -583,12 +852,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks (ICLR '20)",
+                "homepage": "https://resources.mpi-inf.mpg.de/d2/orekondy/predpoison/",
                 "id": 258996148,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-11-04T21:49:19Z",
+                "open_issues": 1,
                 "owner": "tribhuvanesh",
                 "repo": "prediction-poisoning",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -599,12 +873,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Copycat CNN",
+                "homepage": null,
                 "id": 115868527,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2024-04-17T04:35:53Z",
+                "open_issues": 0,
                 "owner": "jeiks",
                 "repo": "Stealing_DL_Models",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -615,12 +894,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 226045348,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-01-13T09:54:33Z",
+                "open_issues": 0,
                 "owner": "xinghu7788",
                 "repo": "DeepSniffer",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -631,12 +915,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Black-Box Ripper: Copying black-box models using generative evolutionary algorithms - NIPS 2020 - Official Implementation",
+                "homepage": null,
                 "id": 306052507,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2020-10-25T09:48:14Z",
+                "open_issues": 4,
                 "owner": "antoniobarbalau",
                 "repo": "black-box-ripper",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -647,12 +936,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 472614787,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-11T20:34:09Z",
+                "open_issues": 1,
                 "owner": "cleverhans-lab",
                 "repo": "model-extraction-iclr",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -663,12 +957,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 348717885,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-06-05T11:08:21Z",
+                "open_issues": 1,
                 "owner": "xlhex",
                 "repo": "extract_and_transfer",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -679,12 +978,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "On the Difficulty of Defending Self-Supervised Learning against Model Extraction",
+                "homepage": null,
                 "id": 507993915,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-06-27T18:35:37Z",
+                "open_issues": 0,
                 "owner": "cleverhans-lab",
                 "repo": "ssl-attacks-defenses",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -695,12 +999,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 557566803,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-05-04T15:21:03Z",
+                "open_issues": 1,
                 "owner": "cleverhans-lab",
                 "repo": "DatasetInferenceForSelfSupervisedModels",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -711,12 +1020,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Reconstruction from Counterfactual Explanations",
+                "homepage": null,
                 "id": 267099785,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-12-05T02:36:15Z",
+                "open_issues": 0,
                 "owner": "aivodji",
                 "repo": "mrce",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "counterfactual-explanations",
+                  "model-extraction"
+                ]
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             },
@@ -727,12 +1044,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR'20] How to 0wn NAS in Your Spare Time",
+                "homepage": "http://hardwarefail.ml",
                 "id": 230947388,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-02-19T08:52:34Z",
+                "open_issues": 0,
                 "owner": "Sanghyun-Hong",
                 "repo": "How-to-0wn-NAS-in-Your-Spare-Time",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "deep-learning",
+                  "pipeline-reconstruction",
+                  "security-vulnerability",
+                  "side-channel-attacks"
+                ]
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
             }
@@ -746,15 +1073,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:43:39.338Z",
+    "last_updated": "2026-08-29T04:38:48.421Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An awesome list of papers on privacy attacks against machine learning",
+      "homepage": null,
       "id": 277843643,
       "language": null,
+      "license": null,
       "last_commit": "2024-03-18T16:25:41Z",
+      "open_issues": 1,
       "owner": "stratosphereips",
       "repo": "awesome-ml-privacy-attacks",
-      "stars": 641
+      "stars": 641,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "machine-learning",
+        "privacy"
+      ]
     },
     "original_repository_sha": "9d88023349812436954957c077e06b72694c6e1b",
     "enhanced_repository": "enhansome/enhansome-ml-privacy-attacks",
