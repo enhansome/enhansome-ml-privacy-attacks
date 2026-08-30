@@ -31,8 +31,8 @@ This repository contains a curated list of papers related to privacy attacks aga
 
 # Privacy Testing Tools
 
-* [**Adversarial Robustness Toolbox (ART)**](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,209 | 🐛 20 | 🌐 Python | 📅 2025-12-12 (IBM)
-* [**TensorFlow Privacy**](https://github.com/tensorflow/privacy/tree/master/tensorflow_privacy/privacy/membership_inference_attack) ⭐ 2,026 | 🐛 136 | 🌐 Python | 📅 2026-08-26 (TensorFlow)
+* [**Adversarial Robustness Toolbox (ART)**](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,210 | 🐛 20 | 🌐 Python | 📅 2025-12-12 (IBM)
+* [**TensorFlow Privacy**](https://github.com/tensorflow/privacy/tree/master/tensorflow_privacy/privacy/membership_inference_attack) ⭐ 2,030 | 🐛 136 | 🌐 Python | 📅 2026-08-26 (TensorFlow)
 * [**Machine Learning Privacy Meter**](https://github.com/privacytrustlab/ml_privacy_meter) ⭐ 724 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2025-04-26 (NUS Data Privacy and Trustworthy Machine Learning Lab)
 * [**PrivacyRaven**](https://github.com/trailofbits/PrivacyRaven) ⚠️ Archived (Trail of Bits)
 * [**CypherCat (archive-only)**](https://github.com/Lab41/cyphercat) ⚠️ Archived (IQT Labs/Lab 41)
@@ -281,4 +281,4 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
