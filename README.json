@@ -720,7 +720,7 @@
                 "open_issues": 121,
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1797,
+                "stars": 1798,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T10:07:52.578Z",
+    "last_updated": "2026-09-04T09:58:34.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers on privacy attacks against machine learning",
