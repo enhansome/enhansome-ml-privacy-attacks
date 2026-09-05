@@ -58,7 +58,7 @@
             "open_issues": 136,
             "owner": "tensorflow",
             "repo": "privacy",
-            "stars": 2030,
+            "stars": 2031,
             "topics": [
               "machine-learning",
               "privacy"
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T09:58:34.567Z",
+    "last_updated": "2026-09-05T09:27:49.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers on privacy attacks against machine learning",
@@ -1085,7 +1085,7 @@
       "open_issues": 1,
       "owner": "stratosphereips",
       "repo": "awesome-ml-privacy-attacks",
-      "stars": 643,
+      "stars": 644,
       "topics": [
         "awesome",
         "awesome-list",
