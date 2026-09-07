@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-12-12T07:01:28Z",
-            "open_issues": 23,
+            "open_issues": 25,
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
             "stars": 6218,
@@ -82,7 +82,7 @@
             "open_issues": 11,
             "owner": "privacytrustlab",
             "repo": "ml_privacy_meter",
-            "stars": 724,
+            "stars": 725,
             "topics": [
               "data-privacy",
               "data-protection",
@@ -175,7 +175,7 @@
                 "open_issues": 11,
                 "owner": "privacytrustlab",
                 "repo": "ml_privacy_meter",
-                "stars": 724,
+                "stars": 725,
                 "topics": [
                   "data-privacy",
                   "data-protection",
@@ -253,7 +253,7 @@
                 "open_issues": 3,
                 "owner": "inspire-group",
                 "repo": "membership-inference-evaluation",
-                "stars": 133,
+                "stars": 134,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T09:41:49.193Z",
+    "last_updated": "2026-09-07T10:45:41.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers on privacy attacks against machine learning",
