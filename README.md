@@ -31,8 +31,8 @@ This repository contains a curated list of papers related to privacy attacks aga
 
 # Privacy Testing Tools
 
-* [**Adversarial Robustness Toolbox (ART)**](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,221 | 🐛 25 | 🌐 Python | 📅 2025-12-12 (IBM)
-* [**TensorFlow Privacy**](https://github.com/tensorflow/privacy/tree/master/tensorflow_privacy/privacy/membership_inference_attack) ⭐ 2,033 | 🐛 136 | 🌐 Python | 📅 2026-08-26 (TensorFlow)
+* [**Adversarial Robustness Toolbox (ART)**](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,222 | 🐛 26 | 🌐 Python | 📅 2025-12-12 (IBM)
+* [**TensorFlow Privacy**](https://github.com/tensorflow/privacy/tree/master/tensorflow_privacy/privacy/membership_inference_attack) ⭐ 2,034 | 🐛 136 | 🌐 Python | 📅 2026-08-26 (TensorFlow)
 * [**Machine Learning Privacy Meter**](https://github.com/privacytrustlab/ml_privacy_meter) ⭐ 726 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2025-04-26 (NUS Data Privacy and Trustworthy Machine Learning Lab)
 * [**PrivacyRaven**](https://github.com/trailofbits/PrivacyRaven) ⚠️ Archived (Trail of Bits)
 * [**CypherCat (archive-only)**](https://github.com/Lab41/cyphercat) ⚠️ Archived (IQT Labs/Lab 41)
@@ -41,7 +41,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 
 ## Membership inference
 
-A curated list of membership inference papers (more than 100 papers) on machine learning models is available at [this repository](https://github.com/HongshengHu/membership-inference-machine-learning-literature) ⭐ 374 | 🐛 0 | 📅 2026-04-08.
+A curated list of membership inference papers (more than 100 papers) on machine learning models is available at [this repository](https://github.com/HongshengHu/membership-inference-machine-learning-literature) ⭐ 375 | 🐛 0 | 📅 2026-04-08.
 
 * [**Comprehensive privacy analysis of deep learning: Passive and active white-box inference attacks against centralized and federated learning.**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8835245) (Nasr et al., 2019) ([code](https://github.com/privacytrustlab/ml_privacy_meter) ⭐ 726 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2025-04-26)
 * [**Membership inference attacks against machine learning models**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7958568) (Shokri et al., 2017) ([code](https://github.com/csong27/membership-inference) ⭐ 202 | 🐛 10 | 🌐 Python | 📅 2017-11-15)
@@ -281,4 +281,4 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._

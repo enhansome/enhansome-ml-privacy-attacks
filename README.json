@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-12-12T07:01:28Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
-            "stars": 6221,
+            "stars": 6222,
             "topics": [
               "adversarial-attacks",
               "adversarial-examples",
@@ -58,7 +58,7 @@
             "open_issues": 136,
             "owner": "tensorflow",
             "repo": "privacy",
-            "stars": 2033,
+            "stars": 2034,
             "topics": [
               "machine-learning",
               "privacy"
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T10:01:57.743Z",
+    "last_updated": "2026-09-12T09:37:53.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers on privacy attacks against machine learning",
