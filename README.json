@@ -253,7 +253,7 @@
                 "open_issues": 3,
                 "owner": "inspire-group",
                 "repo": "membership-inference-evaluation",
-                "stars": 134,
+                "stars": 133,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:37:53.692Z",
+    "last_updated": "2026-09-13T10:38:34.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers on privacy attacks against machine learning",
@@ -1085,7 +1085,7 @@
       "open_issues": 1,
       "owner": "stratosphereips",
       "repo": "awesome-ml-privacy-attacks",
-      "stars": 645,
+      "stars": 644,
       "topics": [
         "awesome",
         "awesome-list",
