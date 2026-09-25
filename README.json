@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
-            "stars": 6245,
+            "stars": 6244,
             "topics": [
               "adversarial-attacks",
               "adversarial-examples",
@@ -720,7 +720,7 @@
                 "open_issues": 122,
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1806,
+                "stars": 1807,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T10:32:15.883Z",
+    "last_updated": "2026-09-25T10:35:50.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers on privacy attacks against machine learning",
