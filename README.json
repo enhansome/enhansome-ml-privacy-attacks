@@ -15,11 +15,11 @@
             "id": 125381318,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T12:38:34Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-06T07:58:19Z",
+            "open_issues": 25,
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
-            "stars": 6254,
+            "stars": 6256,
             "topics": [
               "adversarial-attacks",
               "adversarial-examples",
@@ -58,7 +58,7 @@
             "open_issues": 136,
             "owner": "tensorflow",
             "repo": "privacy",
-            "stars": 2037,
+            "stars": 2038,
             "topics": [
               "machine-learning",
               "privacy"
@@ -82,7 +82,7 @@
             "open_issues": 11,
             "owner": "privacytrustlab",
             "repo": "ml_privacy_meter",
-            "stars": 726,
+            "stars": 727,
             "topics": [
               "data-privacy",
               "data-protection",
@@ -175,7 +175,7 @@
                 "open_issues": 11,
                 "owner": "privacytrustlab",
                 "repo": "ml_privacy_meter",
-                "stars": 726,
+                "stars": 727,
                 "topics": [
                   "data-privacy",
                   "data-protection",
@@ -253,7 +253,7 @@
                 "open_issues": 3,
                 "owner": "inspire-group",
                 "repo": "membership-inference-evaluation",
-                "stars": 132,
+                "stars": 133,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
@@ -720,7 +720,7 @@
                 "open_issues": 124,
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1811,
+                "stars": 1812,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T12:42:59.869Z",
+    "last_updated": "2026-10-06T11:02:32.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers on privacy attacks against machine learning",
