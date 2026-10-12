@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-08T15:38:37Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
-            "stars": 6265,
+            "stars": 6266,
             "topics": [
               "adversarial-attacks",
               "adversarial-examples",
@@ -54,7 +54,7 @@
             "id": 162747292,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-26T19:07:16Z",
+            "last_commit": "2026-10-12T12:39:10Z",
             "open_issues": 136,
             "owner": "tensorflow",
             "repo": "privacy",
@@ -720,7 +720,7 @@
                 "open_issues": 125,
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1815,
+                "stars": 1816,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:38:09.166Z",
+    "last_updated": "2026-10-12T13:34:14.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers on privacy attacks against machine learning",
@@ -1085,7 +1085,7 @@
       "open_issues": 2,
       "owner": "stratosphereips",
       "repo": "awesome-ml-privacy-attacks",
-      "stars": 642,
+      "stars": 643,
       "topics": [
         "awesome",
         "awesome-list",
