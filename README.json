@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
-            "stars": 6273,
+            "stars": 6276,
             "topics": [
               "adversarial-attacks",
               "adversarial-examples",
@@ -82,7 +82,7 @@
             "open_issues": 11,
             "owner": "privacytrustlab",
             "repo": "ml_privacy_meter",
-            "stars": 727,
+            "stars": 728,
             "topics": [
               "data-privacy",
               "data-protection",
@@ -175,7 +175,7 @@
                 "open_issues": 11,
                 "owner": "privacytrustlab",
                 "repo": "ml_privacy_meter",
-                "stars": 727,
+                "stars": 728,
                 "topics": [
                   "data-privacy",
                   "data-protection",
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T10:38:49.309Z",
+    "last_updated": "2026-10-15T10:21:59.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers on privacy attacks against machine learning",
