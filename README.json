@@ -55,7 +55,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-12T12:39:10Z",
-            "open_issues": 136,
+            "open_issues": 137,
             "owner": "tensorflow",
             "repo": "privacy",
             "stars": 2040,
@@ -720,7 +720,7 @@
                 "open_issues": 125,
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1819,
+                "stars": 1820,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T11:18:13.906Z",
+    "last_updated": "2026-10-20T10:27:23.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers on privacy attacks against machine learning",
