@@ -15,8 +15,8 @@
             "id": 125381318,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T23:21:49Z",
-            "open_issues": 23,
+            "last_commit": "2026-11-02T12:53:29Z",
+            "open_issues": 22,
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
             "stars": 6295,
@@ -766,7 +766,7 @@
                 "open_issues": 4,
                 "owner": "tribhuvanesh",
                 "repo": "knockoffnets",
-                "stars": 116,
+                "stars": 117,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:39.338Z"
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T12:03:56.715Z",
+    "last_updated": "2026-11-02T13:52:35.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers on privacy attacks against machine learning",
