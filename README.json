@@ -13,13 +13,13 @@
             "description": "Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams",
             "homepage": "https://adversarial-robustness-toolbox.readthedocs.io/en/latest/",
             "id": 125381318,
-            "language": "Python",
+            "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-03T07:53:02Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-04T09:52:06Z",
+            "open_issues": 23,
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
-            "stars": 6297,
+            "stars": 6298,
             "topics": [
               "adversarial-attacks",
               "adversarial-examples",
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T13:01:39.721Z",
+    "last_updated": "2026-11-04T13:18:19.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers on privacy attacks against machine learning",
