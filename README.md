@@ -31,8 +31,8 @@ This repository contains a curated list of papers related to privacy attacks aga
 
 # Privacy Testing Tools
 
-* [**Adversarial Robustness Toolbox (ART)**](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,304 | 🐛 27 | 🌐 Python | 📅 2026-11-05 (IBM)
-* [**TensorFlow Privacy**](https://github.com/tensorflow/privacy/tree/master/tensorflow_privacy/privacy/membership_inference_attack) ⭐ 2,038 | 🐛 140 | 🌐 Python | 📅 2026-11-06 (TensorFlow)
+* [**Adversarial Robustness Toolbox (ART)**](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,305 | 🐛 26 | 🌐 Python | 📅 2026-11-09 (IBM)
+* [**TensorFlow Privacy**](https://github.com/tensorflow/privacy/tree/master/tensorflow_privacy/privacy/membership_inference_attack) ⭐ 2,037 | 🐛 138 | 🌐 Python | 📅 2026-11-09 (TensorFlow)
 * [**Machine Learning Privacy Meter**](https://github.com/privacytrustlab/ml_privacy_meter) ⭐ 729 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2025-04-26 (NUS Data Privacy and Trustworthy Machine Learning Lab)
 * [**PrivacyRaven**](https://github.com/trailofbits/PrivacyRaven) ⚠️ Archived (Trail of Bits)
 * [**CypherCat (archive-only)**](https://github.com/Lab41/cyphercat) ⚠️ Archived (IQT Labs/Lab 41)
@@ -48,7 +48,7 @@ A curated list of membership inference papers (more than 100 papers) on machine 
 * [**Evaluating differentially private machine learning in practice**](https://www.usenix.org/system/files/sec19-jayaraman.pdf) (Jayaraman and Evans, 2019) ([code](https://github.com/bargavj/EvaluatingDPML) ⭐ 136 | 🐛 2 | 🌐 Python | 📅 2022-12-08)
 * [**Systematic Evaluation of Privacy Risks of Machine Learning Models**](https://arxiv.org/abs/2003.10595) (Song and Mittal, 2020) ([code](https://github.com/inspire-group/membership-inference-evaluation) ⭐ 133 | 🐛 3 | 🌐 Python | 📅 2024-04-09)
 * [**Ml-leaks: Model and data independent membership inference attacks and defenses on machine learning models**](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03A-1_Salem_paper.pdf) (Salem et al., 2019) ([code](https://github.com/AhmedSalem2/ML-Leaks) ⭐ 86 | 🐛 4 | 🌐 Python | 📅 2021-11-22)
-* [**Privacy risks of securing machine learning models against adversarial examples**](https://dl.acm.org/doi/pdf/10.1145/3319535.3354211) (Song L. et al., 2019) ([code](https://github.com/inspire-group/privacy-vs-robustness) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2019-11-25)
+* [**Privacy risks of securing machine learning models against adversarial examples**](https://dl.acm.org/doi/pdf/10.1145/3319535.3354211) (Song L. et al., 2019) ([code](https://github.com/inspire-group/privacy-vs-robustness) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2019-11-25)
 * [**MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples**](https://arxiv.org/abs/1909.10594) (Jia et al., 2019) ([code](https://github.com/jjy1994/MemGuard) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2019-11-10)
 * [**Privacy risk in machine learning: Analyzing the connection to overfitting**](https://ieeexplore.ieee.org/document/8429311), (Yeom et al., 2018) ([code](https://github.com/samuel-yeom/ml-privacy-csf18) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2019-01-28)
 * [**Towards the Infeasibility of Membership Inference on Deep Models**](https://arxiv.org/pdf/2005.13702.pdf) (Rezaei and Liu, 2020) ([code](https://github.com/shrezaei/MI-Attack) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2024-09-02)
@@ -281,4 +281,4 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
