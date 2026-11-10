@@ -15,11 +15,11 @@
             "id": 125381318,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-09T12:05:55Z",
-            "open_issues": 26,
+            "last_commit": "2026-11-10T12:45:42Z",
+            "open_issues": 28,
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
-            "stars": 6305,
+            "stars": 6308,
             "topics": [
               "adversarial-attacks",
               "adversarial-examples",
@@ -82,7 +82,7 @@
             "open_issues": 11,
             "owner": "privacytrustlab",
             "repo": "ml_privacy_meter",
-            "stars": 729,
+            "stars": 730,
             "topics": [
               "data-privacy",
               "data-protection",
@@ -175,7 +175,7 @@
                 "open_issues": 11,
                 "owner": "privacytrustlab",
                 "repo": "ml_privacy_meter",
-                "stars": 729,
+                "stars": 730,
                 "topics": [
                   "data-privacy",
                   "data-protection",
@@ -281,27 +281,6 @@
             },
             {
               "node_type": "item",
-              "title": "Privacy risks of securing machine learning models against adversarial examples",
-              "description": "(Song L. et al., 2019) (code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Privacy Risks of Securing Machine Learning Models against Adversarial Examples",
-                "homepage": "https://arxiv.org/abs/1905.10291",
-                "id": 201356843,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2019-11-25T20:57:55Z",
-                "open_issues": 0,
-                "owner": "inspire-group",
-                "repo": "privacy-vs-robustness",
-                "stars": 46,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:43:39.338Z"
-            },
-            {
-              "node_type": "item",
               "title": "MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples",
               "description": "(Jia et al., 2019) (code)",
               "children": [],
@@ -316,6 +295,27 @@
                 "open_issues": 0,
                 "owner": "jinyuan-jia",
                 "repo": "MemGuard",
+                "stars": 47,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:43:39.338Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Privacy risks of securing machine learning models against adversarial examples",
+              "description": "(Song L. et al., 2019) (code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Privacy Risks of Securing Machine Learning Models against Adversarial Examples",
+                "homepage": "https://arxiv.org/abs/1905.10291",
+                "id": 201356843,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2019-11-25T20:57:55Z",
+                "open_issues": 0,
+                "owner": "inspire-group",
+                "repo": "privacy-vs-robustness",
                 "stars": 46,
                 "topics": []
               },
@@ -720,7 +720,7 @@
                 "open_issues": 127,
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1823,
+                "stars": 1824,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T14:24:24.523Z",
+    "last_updated": "2026-11-10T13:48:08.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers on privacy attacks against machine learning",
