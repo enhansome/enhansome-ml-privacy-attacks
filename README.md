@@ -31,7 +31,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 
 # Privacy Testing Tools
 
-* [**Adversarial Robustness Toolbox (ART)**](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,330 | 🐛 25 | 🌐 Python | 📅 2026-11-25 (IBM)
+* [**Adversarial Robustness Toolbox (ART)**](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,330 | 🐛 25 | 🌐 Python | 📅 2026-11-26 (IBM)
 * [**TensorFlow Privacy**](https://github.com/tensorflow/privacy/tree/master/tensorflow_privacy/privacy/membership_inference_attack) ⭐ 2,042 | 🐛 138 | 🌐 Python | 📅 2026-11-18 (TensorFlow)
 * [**Machine Learning Privacy Meter**](https://github.com/privacytrustlab/ml_privacy_meter) ⭐ 729 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2025-04-26 (NUS Data Privacy and Trustworthy Machine Learning Lab)
 * [**PrivacyRaven**](https://github.com/trailofbits/PrivacyRaven) ⚠️ Archived (Trail of Bits)
@@ -41,7 +41,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 
 ## Membership inference
 
-A curated list of membership inference papers (more than 100 papers) on machine learning models is available at [this repository](https://github.com/HongshengHu/membership-inference-machine-learning-literature) ⭐ 376 | 🐛 0 | 📅 2026-10-08.
+A curated list of membership inference papers (more than 100 papers) on machine learning models is available at [this repository](https://github.com/HongshengHu/membership-inference-machine-learning-literature) ⭐ 377 | 🐛 0 | 📅 2026-10-08.
 
 * [**Comprehensive privacy analysis of deep learning: Passive and active white-box inference attacks against centralized and federated learning.**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8835245) (Nasr et al., 2019) ([code](https://github.com/privacytrustlab/ml_privacy_meter) ⭐ 729 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2025-04-26)
 * [**Membership inference attacks against machine learning models**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7958568) (Shokri et al., 2017) ([code](https://github.com/csong27/membership-inference) ⭐ 203 | 🐛 10 | 🌐 Python | 📅 2017-11-15)
@@ -183,7 +183,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 * [**Exploiting unintended feature leakage in collaborative learning**](https://ieeexplore.ieee.org/iel7/8826229/8835208/08835269.pdf) (Melis et al., 2019) ([code](https://github.com/csong27/property-inference-collaborative-ml) ⭐ 56 | 🐛 8 | 🌐 Python | 📅 2019-05-28)
 * [**Honest-but-Curious Nets: Sensitive Attributes of Private Inputs can be Secretly Coded into the Entropy of Classifiers' Outputs**](https://arxiv.org/abs/2105.12049) (Malekzadeh et al. 2021) ([code](https://github.com/mmalekzadeh/honest-but-curious-nets) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2023-01-11)
 * [**Formalizing and Estimating Distribution Inference Risks**](https://arxiv.org/abs/2109.06024) (Suri and Evans, 2022) ([code](https://github.com/iamgroot42/FormEstDistRisks) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-03-23)
-* [**Dissecting Distribution Inference**](https://ieeexplore.ieee.org/abstract/document/10136142) (Suri et al., 2023) ([code](https://github.com/iamgroot42/dissecting_dist_inf) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2023-09-27)
+* [**Dissecting Distribution Inference**](https://ieeexplore.ieee.org/abstract/document/10136142) (Suri et al., 2023) ([code](https://github.com/iamgroot42/dissecting_dist_inf) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2023-09-27)
 * [**SNAP: Efficient Extraction of Private Properties with Poisoning**](https://ieeexplore.ieee.org/abstract/document/10179334) (Chaudhari et al., 2023) ([code](https://github.com/johnmath/snap-sp23) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2024-03-11)
 * [**Property Inference Attacks Against GANs**](https://arxiv.org/abs/2111.07608) (Zhou et al., 2021) ([code](https://github.com/Zhou-Junhao/PIA_GAN) ⭐ 3 | 🐛 2 | 📅 2021-11-14)
 * [**Hacking smart machines with smarter ones: How to extract meaningful data from machine learning classifiers**](https://dl.acm.org/doi/10.1504/IJSN.2015.071829) (Ateniese et al., 2015)
@@ -281,4 +281,4 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
